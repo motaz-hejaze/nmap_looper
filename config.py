@@ -5,12 +5,12 @@
 
 connection_data = {
     "hostname": "localhost",
-    "username": "motaz",
-    "password": "kokowawa",
-    "database_name": "nmap",
-    "table_name": "subdomains",
-    "subdomains_column_name": "subdomain",
-    "ports_column_name": "ports",
+    "username": "myuser",
+    "password": "mypassword",
+    "database_name": "mydatabase",
+    "table_name": "mytable",
+    "subdomains_column_name": "mysubdomain",
+    "ports_column_name": "myports",
 }
 
 nmap_command_args = []
